@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"></h2>
 
 <!--
 **RuchitaSuranagi/RuchitaSuranagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>🌱 I’m currently learning Machine Learning  
+🔭 I’m currently working on small projects using PyTorch <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+
+📫 How to reach me: ...
+[![Linkedin Badge](https://img.shields.io/badge/-RuchitaSuranagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchitasuranagi/)](https://www.linkedin.com/in/ruchitasuranagi/)  [![Gmail Badge](https://img.shields.io/badge/-RuchitaSuranagi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruchitasuranagi43@gmail.com)](mailto:ruchitasuranagi43@gmail.com)
+
+⚡ Fun fact: ...
+I do write blogs on topics that interest me on [![Blogger Badge](https://img.shields.io/badge/-RuchitaSuranagi-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://ruchitasuranagi.blogspot.com/)](https://ruchitasuranagi.blogspot.com/)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchitaSuranagi&layout=compact" alt="RuchitaSuranagi" /></p>
+
+<!-- 
+![RuchitaSuranagi's github stats](https://github-readme-stats.vercel.app/api?username=RuchitaSuranagi&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515) -->
