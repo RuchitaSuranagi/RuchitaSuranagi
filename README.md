@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎯 I am an undergraduate at PICT, Pune. A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development.
+
 <p>🌱 I’m currently learning Machine Learning  
-🔭 I’m currently working on small projects using PyTorch <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+🔭 I’m currently working on small projects using PyTorch <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></p>
 
-📫 How to reach me: ...
-[![Linkedin Badge](https://img.shields.io/badge/-RuchitaSuranagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchitasuranagi/)](https://www.linkedin.com/in/ruchitasuranagi/)  [![Gmail Badge](https://img.shields.io/badge/-RuchitaSuranagi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruchitasuranagi43@gmail.com)](mailto:ruchitasuranagi43@gmail.com)
+<p>📫 Lets connect: <br>
+[![Linkedin Badge](https://img.shields.io/badge/-RuchitaSuranagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchitasuranagi/)](https://www.linkedin.com/in/ruchitasuranagi/)  [![Gmail Badge](https://img.shields.io/badge/-RuchitaSuranagi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruchitasuranagi43@gmail.com)](mailto:ruchitasuranagi43@gmail.com) </p>
 
-⚡ Fun fact: ...
-I do write blogs on topics that interest me on [![Blogger Badge](https://img.shields.io/badge/-RuchitaSuranagi-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://ruchitasuranagi.blogspot.com/)](https://ruchitasuranagi.blogspot.com/)
+<p>⚡ Fun fact: I write blogs on the topics that interest me on [![Blogger Badge](https://img.shields.io/badge/-RuchitaSuranagi-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://ruchitasuranagi.blogspot.com/)](https://ruchitasuranagi.blogspot.com/) </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchitaSuranagi&layout=compact" alt="RuchitaSuranagi" /></p>
 
 <!-- 
 ![RuchitaSuranagi's github stats](https://github-readme-stats.vercel.app/api?username=RuchitaSuranagi&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515) -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RuchitaSuranagi&label=Profile%20views&color=0e75b6&style=flat" alt="Ruchita" /> </p>
