@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎯 I am an undergraduate at PICT, Pune. A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development.
+🎯 I am an undergraduate at AITD, Goa. A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics and a great learner too. My domains & fields of interest are web design and development, machine learning, Python, C++ and C. 
 
 <p>🌱 I’m currently learning Machine Learning  
 🔭 I’m currently working on small projects using PyTorch <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></p>
