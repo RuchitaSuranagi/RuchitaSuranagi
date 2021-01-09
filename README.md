@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🎯 I am an undergraduate at AITD, Goa. A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics and a great learner too. My domains & fields of interest are web design and development, machine learning, Python, C++ and C. 
 
-🌱 I’m currently learning Machine Learning <br>
+<!--🌱 I’m currently learning Machine Learning <br> -->
 🔭 I’m currently working on small projects using PyTorch <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 
 📫 Lets connect: <br>
